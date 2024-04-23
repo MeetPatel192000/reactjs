@@ -11,6 +11,13 @@
   },
   "customizations": {
     "codespaces": {
+       "repositories": {
+        "my_org/my_repo": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      },
       "openFiles": [
         "src/App.js"
       ]
