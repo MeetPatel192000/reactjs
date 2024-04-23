@@ -12,7 +12,7 @@
   "customizations": {
     "codespaces": {
        "repositories": {
-        "my_org/my_repo": {
+        "cogbeeorg/reactjs": {
           "permissions": {
             "issues": "write"
           }
